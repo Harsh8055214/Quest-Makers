@@ -53,3 +53,10 @@ To compile the game, use a C++ compiler such as g++:
 ## License
 This project is open-source and free to use.
 
+## Author
+Developed by:-
+Kodavala Harsh - 202401121
+Harsh Panchal - 202401134
+Krisha Bhuva - 202401099
+Krishna Parmar-202401100
+
